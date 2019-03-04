@@ -10,5 +10,9 @@ def brand
  @brand
 end
 
+def cobble
+ :condition = "repaired"
+end
+
 
 end
