@@ -11,7 +11,8 @@ def brand
 end
 
 def cobble
- puts ""
+ puts "Your shoe is as good as new!"
+ shoe.condition = "new"
 end
 
 
