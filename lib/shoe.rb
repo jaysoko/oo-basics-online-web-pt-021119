@@ -11,7 +11,6 @@ def brand
 end
 
 def cobble
- :condition = "repaired"
 end
 
 
